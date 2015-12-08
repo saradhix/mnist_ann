@@ -1,0 +1,7 @@
+**.data
+**.net
+**.out
+mnist_train
+mnist_test
+*.pyc
+**.swp
